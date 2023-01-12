@@ -1,0 +1,7 @@
+{
+  "name": "Translatable",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
